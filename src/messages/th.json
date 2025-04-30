@@ -1,0 +1,20 @@
+{
+  "save": "บันทึก",
+  "update": "อัพเดท",
+  "edit": "แก้ไข",
+  "cancel": "ยกเลิก",
+  "delete": "ลบ",
+  "firstname": "ชื่อ",
+  "lastname": "นามสกุล",
+  "age": "อายุ",
+  "job": "อาชีพ",
+  "sex": "เพศ",
+  "No": "ลำดับ",
+  "select-default": "โปรดเลือก",
+  "select-male": "ชาย",
+  "select-female": "หญิง",
+  "select-lgbtq": "LGBTQ",
+  "label": "เลือกภาษา",
+  "en": "อังกฤษ",
+  "th": "ไทย"
+}

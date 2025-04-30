@@ -1,0 +1,20 @@
+{
+  "save": "Save",
+  "update": "Update",
+  "edit": "Edit",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "firstname": "First Name",
+  "lastname": "Last Name",
+  "age": "Age",
+  "job": "Job",
+  "sex": "Sex",
+  "No": "No.",
+  "select-default": "Please Select",
+  "select-male": "Male",
+  "select-female": "Female",
+  "select-lgbtq": "LGBTQ",
+  "label": "Select language",
+  "en": "English",
+  "th": "Thai"
+}
